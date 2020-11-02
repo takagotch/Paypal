@@ -7,6 +7,8 @@ https://github.com/paypal
 ```
 # かんたん決済　html
 # スマート決済
+# スマートボタン
+
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
