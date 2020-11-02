@@ -50,6 +50,12 @@ https://github.com/paypal
 ```
 
 ```
+# 今すぐ購入
+# カートに入れる
+# Smart Subscribe
+# 購読する
+
+
 ```
 
 ```
