@@ -8,6 +8,8 @@ https://github.com/paypal
 ###### paypal developer
 https://developer.paypal.com/developer/applications/edit/SB:QWRyaTZXYkxLLXo1WjVMV0ZqbWxWYWtaOWRLQlJ1MEhKM1QtNnlLSndMODlKR3VMYmhQQUlFT3FMbmNpZ294eDR2WWxwUDFJUDNvYXZHQy0=
 
+(Register with Cardinal Commerce)[https://paypal3dsregistration.cardinalcommerce.com/UI/Registration.aspx]
+
 
 
 
