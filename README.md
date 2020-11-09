@@ -11,7 +11,8 @@ https://developer.paypal.com/developer/applications/edit/SB:QWRyaTZXYkxLLXo1WjVM
 (Register with Cardinal Commerce)[https://paypal3dsregistration.cardinalcommerce.com/UI/Registration.aspx]
 
 
-
+###### cardinal
+https://cardinaldocs.atlassian.net/wiki/spaces/CC/pages/7929857/Cardinal+Cruise+Standard
 
 ```
 # かんたん決済　html
