@@ -24,6 +24,7 @@ https://www.paypal.com/webapps/mpp/payflow-payment-gateway
 ###### PaymentExpress
 https://www.windcave.com/
 ###### PaymentExpress PxPay
+https://www.paymentexpress.com/Technical_Resources/Ecommerce_Hosted/PxPay
 
 
 ```
