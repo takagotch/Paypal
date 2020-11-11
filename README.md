@@ -16,6 +16,13 @@ https://developer.paypal.com/developer/applications/edit/SB:QWRyaTZXYkxLLXo1WjVM
 ###### cardinal
 https://cardinaldocs.atlassian.net/wiki/spaces/CC/pages/7929857/Cardinal+Cruise+Standard
 
+
+###### Payment Website Payments Pro (UK)
+###### PayPal Payflow Pro
+###### PaymentExpress
+###### PaymentExpress PxPay
+
+
 ```
 # かんたん決済　html
 # スマート決済
