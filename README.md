@@ -4,6 +4,8 @@ https://www.paypal.com/myaccount/money/
 
 https://github.com/paypal
 
+###### エクスプレスチェックアウト paypal
+https://www.paypal.com/bizsignup/#/checkAccount
 
 ###### paypal developer
 https://developer.paypal.com/developer/applications/edit/SB:QWRyaTZXYkxLLXo1WjVMV0ZqbWxWYWtaOWRLQlJ1MEhKM1QtNnlLSndMODlKR3VMYmhQQUlFT3FMbmNpZ294eDR2WWxwUDFJUDNvYXZHQy0=
