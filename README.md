@@ -20,6 +20,7 @@ https://cardinaldocs.atlassian.net/wiki/spaces/CC/pages/7929857/Cardinal+Cruise+
 ###### Payment Website Payments Pro (UK)
 https://www.paypal.com/uk/business
 ###### PayPal Payflow Pro
+https://www.paypal.com/webapps/mpp/payflow-payment-gateway
 ###### PaymentExpress
 ###### PaymentExpress PxPay
 
